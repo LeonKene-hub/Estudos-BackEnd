@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Barra de carregamento\bin\Debug\net7.0\Barra de carregamento.exe
+C:\Users\56026708820\Desktop\Barra de carregamento\bin\Debug\net7.0\Barra de carregamento.deps.json
+C:\Users\56026708820\Desktop\Barra de carregamento\bin\Debug\net7.0\Barra de carregamento.runtimeconfig.json
+C:\Users\56026708820\Desktop\Barra de carregamento\bin\Debug\net7.0\Barra de carregamento.dll
+C:\Users\56026708820\Desktop\Barra de carregamento\bin\Debug\net7.0\Barra de carregamento.pdb
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.dll
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\refint\Barra de carregamento.dll
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.pdb
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\Barra de carregamento.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Barra de carregamento\obj\Debug\net7.0\ref\Barra de carregamento.dll

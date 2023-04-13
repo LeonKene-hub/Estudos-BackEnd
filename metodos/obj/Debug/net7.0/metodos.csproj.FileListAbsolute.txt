@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\metodos\bin\Debug\net7.0\metodos.exe
+C:\Users\56026708820\Desktop\metodos\bin\Debug\net7.0\metodos.deps.json
+C:\Users\56026708820\Desktop\metodos\bin\Debug\net7.0\metodos.runtimeconfig.json
+C:\Users\56026708820\Desktop\metodos\bin\Debug\net7.0\metodos.dll
+C:\Users\56026708820\Desktop\metodos\bin\Debug\net7.0\metodos.pdb
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.dll
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\refint\metodos.dll
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.pdb
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\metodos.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\metodos\obj\Debug\net7.0\ref\metodos.dll

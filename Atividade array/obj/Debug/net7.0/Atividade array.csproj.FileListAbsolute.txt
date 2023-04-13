@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Atividade array\bin\Debug\net7.0\Atividade array.exe
+C:\Users\56026708820\Desktop\Atividade array\bin\Debug\net7.0\Atividade array.deps.json
+C:\Users\56026708820\Desktop\Atividade array\bin\Debug\net7.0\Atividade array.runtimeconfig.json
+C:\Users\56026708820\Desktop\Atividade array\bin\Debug\net7.0\Atividade array.dll
+C:\Users\56026708820\Desktop\Atividade array\bin\Debug\net7.0\Atividade array.pdb
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.dll
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\refint\Atividade array.dll
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.pdb
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\Atividade array.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Atividade array\obj\Debug\net7.0\ref\Atividade array.dll
